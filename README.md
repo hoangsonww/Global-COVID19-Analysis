@@ -67,3 +67,7 @@ This project is open-source and available under the MIT License.
 This project is for educational purposes only. All analyses and conclusions should be considered illustrative.
 
 Also, note that the dataset that we are getting is changing as it is being updated, so keep in mind that our plots may change as well.
+
+---
+
+Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
