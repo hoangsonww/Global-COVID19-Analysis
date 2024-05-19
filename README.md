@@ -70,4 +70,4 @@ Also, note that the dataset that we are getting is changing as it is being updat
 
 ---
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024. Thank you for visiting! 

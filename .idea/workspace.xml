@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48f2e385-955f-4ba5-8348-70941f3b7403" name="Changes" comment="Update: Added data scripts, datasets, and visualizations">
-      <change beforePath="$PROJECT_DIR$/.RData" beforeDir="false" afterPath="$PROJECT_DIR$/.RData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/.Rhistory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/pcs/source-pane.pper" beforeDir="false" afterPath="$PROJECT_DIR$/.Rproj.user/45567DE2/pcs/source-pane.pper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/14DEA535" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/14DEA535-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/51B34B75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/51B34B75-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/90D7A791" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/90D7A791-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/A1E592C7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/A1E592C7-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/E766CFDF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/E766CFDF-contents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/E8BA9FE2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Rproj.user/45567DE2/sources/per/t/E8BA9FE2-contents" beforeDir="false" />
-    </list>
+    <list default="true" id="48f2e385-955f-4ba5-8348-70941f3b7403" name="Changes" comment="Update: Added data scripts, datasets, and visualizations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +19,12 @@
     &quot;assignee&quot;: &quot;hoangsonww&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hoangsonww/Global-COVID19-Analysis.git&quot;,
-    &quot;accountId&quot;: &quot;45c9842d-1288-4e81-9f85-b94a10eb7729&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hoangsonww/Global-COVID19-Analysis.git",
+    "accountId": "7aed4cc4-2c10-4afd-b1b1-f9443cf32ff5"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -82,8 +66,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +83,7 @@
       <workItem from="1710352852065" duration="27000" />
       <workItem from="1712290018605" duration="31000" />
       <workItem from="1712290070874" duration="10000" />
+      <workItem from="1716113431849" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="Update: Added data scripts, datasets, and visualizations">
       <option name="closed" value="true" />
@@ -124,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710352868555</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update: Added data scripts, datasets, and visualizations">
+      <option name="closed" value="true" />
+      <created>1716113447307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716113447307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
